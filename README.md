@@ -87,7 +87,7 @@ The raw Spotify listening data was preprocessed using the following techniques:
 | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | `spotify_dashboard.pbix`                                                                                 | Power BI file containing the complete dashboard |
 | `README.md`                                                                                              | Project documentation                           |
-| `[data/spotify_listening](https://www.kaggle.com/datasets/anandshaw2001/top-spotify-songs-in-countries)` | Raw or cleaned Spotify data (if available)      |
+| `[data/spotify_listening](https://www.kaggle.com/datasets/anandshaw2001/top-spotify-songs-in-countries)` | Raw or cleaned Spotify data
 
 ---
 
